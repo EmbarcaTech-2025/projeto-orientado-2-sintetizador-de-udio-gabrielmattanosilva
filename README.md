@@ -11,7 +11,10 @@ Campinas, ___ de 2025
 
 ---
 
-<!-- INSIRA O CONTEÚDO DO SEU README AQUI! -->
+Sintetizador de Audio Digital utilizando a BitDogLab.
+
+- Para gravar aperte o botão A, o led RGB deverá mostrar a cor vermelha.
+- Para reproduzir aperte o botão B, o led RGB deverá mostrar a cor verde.
 
 ---
 
